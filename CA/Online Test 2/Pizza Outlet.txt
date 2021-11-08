@@ -1,0 +1,24 @@
+
+A Pizza outlet is offering a promotion for the month of April to the customers. 
+Write a C program to input the pizza type (1' for Vegetable, '2' for Chicken and '3' for fish)
+and quantity and calculate the total amount to be pale by the customer.
+A discount is given for the orders more than 3 pizzas based on the Pizza type, as shown in the table below:
+
+Pizza Type  Price of a Pizza  Discount 
+1           Rs. 1000.00       10%
+2           Rs. 1600.00       12%
+3           Rs. 1400.00       15%
+
+The program should allow the user to enter orders until -1 is entered.
+
+Sample output
+
+Enter Pizza Type  1
+Enter Quantity    2
+Total Price       Rs: 2000.00
+
+Enter Pizza Type  2
+Enter Quantity    4
+Total Price       RS 5632.00
+
+Enter Pizza Type  -1
